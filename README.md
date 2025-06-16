@@ -1,5 +1,6 @@
 # Coffee Shop Web Application
-![Uploading Screenshot (25).png…]()
+![Screenshot (25)](https://github.com/user-attachments/assets/0aa24ebd-4b06-4f8f-8bd8-cc775e6872c9)
+
 
 This is a modern coffee shop web application built with Next.js, React, and Tailwind CSS. It provides a user-friendly interface for browsing products, managing a shopping cart, and checking out.
 
